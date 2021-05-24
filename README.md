@@ -1,5 +1,8 @@
 # Work Day Scheduler
 
+![Screenshot (20)](https://user-images.githubusercontent.com/81123612/119283382-71caba80-bc02-11eb-9fd3-01704a724557.png)
+
+
 A daily scheduler
 
 https://github.com/BCannon88/Work-Day-Scheduler
