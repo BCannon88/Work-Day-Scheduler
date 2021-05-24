@@ -2,6 +2,8 @@
 A daily scheduler
 https://github.com/BCannon88/Work-Day-Scheduler
 
+https://bcannon88.github.io/Work-Day-Scheduler/
+
 
 
 ![Screenshot (18)](https://user-images.githubusercontent.com/81123612/119282104-fc5ceb00-bbfd-11eb-874c-7f97ad0ef730.png)
